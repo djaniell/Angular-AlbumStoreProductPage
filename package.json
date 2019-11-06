@@ -36,7 +36,7 @@
     "@angular/http": "^7.2.15",
     "@angular/platform-browser": "8.2.13",
     "@angular/platform-browser-dynamic": "8.2.13",
-    "@angular/router": "8.2.13",
+    "@angular/router": "^8.2.13",
     "core-js": "^2.6.10",
     "rxjs": "6.5.3",
     "rxjs-compat": "^6.5.3",
